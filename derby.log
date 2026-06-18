@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 18 16:57:44 WIB 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019e-da2a-46b3-0000171a2190 
+on database directory /home/machinedev/Porto_Project/unstructured-json-to-table-with-pyspark/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/home/machinedev/spark/jars/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.31+11-post-1ubuntu1-24.04.2-Ubuntu
+user.dir=/home/machinedev/Porto_Project/unstructured-json-to-table-with-pyspark
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-124-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
