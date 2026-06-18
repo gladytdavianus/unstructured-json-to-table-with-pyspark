@@ -3,7 +3,7 @@
 A robust ETL pipeline that converts the Yelp Academic Dataset Review JSON (semi-structured) into a structured table format using Apache PySpark. The pipeline outputs the data in multiple formats — Parquet, CSV, Spark SQL table, and MySQL — for downstream analytics and reporting.
 
 
-![ETL Pipeline Diagram](images/pipeline_diagram.png)
+![ETL Pipeline Diagram](images/Diagram.png)
 
 ---
 
@@ -374,7 +374,7 @@ The cleaned DataFrame looks like this (first 3 rows):
 | `GJXCdrto3ASJOqKeVWPi6Q` | `yXQM5uF2jS6es16SJzNHfg` | `NZnhc2sEQy3RmzKTZnqtwQ` | 5.0 | I *adore* Travis at the Hard Rock... | 2012-12-03 | 0 | 0 | 0 | 602 |
 | `2TzJjDVDEuAW6MR5Vybp5i` | `n6-Gk65cPZL6Uz8qRm3NYw` | `WTqjgwHlXbSFuu75X7wKlQ` | 5.0 | I have to say that this office does... | 2016-05-28 | 17 | 0 | 0 | 870 |
 
-![Output DataFrame Schema](images/outpschema.png)
+![Output DataFrame Schema](images/outputschema.png)
 ![Output DataFrame Sample](images/samplerecord.png)
 
 ### Output File Sizes (Approximate, Full Dataset)
