@@ -1,6 +1,6 @@
 # Unstructured JSON to Table with PySpark
 
-A robust ETL pipeline that converts the Yelp Academic Dataset Review JSON (semi-structured) into a structured table format using Apache PySpark. The pipeline outputs the data in multiple formats — Parquet, CSV, Spark SQL table, and MySQL — for downstream analytics and reporting.
+A robust ETL pipeline that converts the Yelp Academic Dataset Review JSON (semi-structured) into a structured table format using Apache PySpark. The pipeline outputs the data in multiple formats Parquet, CSV, Spark SQL table, and MySQL for downstream analytics and reporting.
 
 
 ![ETL Pipeline Diagram](images/Diagram.png)
